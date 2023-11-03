@@ -54,7 +54,7 @@ body{
 
 .hiddenLeft{
     opacity: 0;
-    transition: all .5s;
+    transition: all 1s;
     transform: translateX(-50%);
 }
 .showed{
@@ -64,8 +64,8 @@ body{
 
 .hiddenTop{
     opacity: 0;
-    transition: all .5s;
-    transform: translateY(50%);
+    transition: all 1s;
+    transform: translateY(25%);
 }
 .showedTop{
     opacity: 1;
